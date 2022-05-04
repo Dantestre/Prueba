@@ -24,7 +24,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 ,Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 ,Solar Televisión
+#EXTINF:-1 ,Solar Televisión (Abancay)
 https://tna5.bozztv.com/televisionsolar/index.m3u8
 
 #EXTINF:-1 ,SIM
