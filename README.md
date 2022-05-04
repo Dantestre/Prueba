@@ -26,3 +26,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playli
 
 #EXTINF:-1 ,Solar Televisión
 https://tna5.bozztv.com/televisionsolar/index.m3u8
+
+#EXTINF:-1 ,SIM
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
