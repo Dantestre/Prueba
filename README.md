@@ -15,8 +15,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 ,OLD
 http://177.53.152.186:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 ,Nuestra TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
 
 #EXTINF:-1 ,Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -24,23 +22,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 ,Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 ,SIM
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
-
-#EXTINF:-1 ,MIAMI tv
-https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-
-#EXTINF:-1 ,MIAMI tv INTERNACIONAL
-http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/playlist.m3u8
-
-#EXTINF:-1 ,ONCE
-https://live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u8
 
 #EXTINF:-1 ,Animales ott latino
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=8fe3bee1-703e-4fde-bb09-b8acf9d276fe&deviceLat=-12.0464&deviceLon=-77.0428&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=83.0.4103.97&includeExtendedEvents=false&marketingRegion=VE&sid=1fee75b8-72ff-4369-b9ed-84c17cb734c2&userId=&serverSideAds=true
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8
 
 #EXTINF:-1 ,Forence
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8
 
 #EXTINF:-1 ,Cadfish
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
