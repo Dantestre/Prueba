@@ -3,6 +3,16 @@
 #EXTINF:-1 ,Anime Zone
 http://azxtv.com/hls/stream.m3u8
 
+#EXTINF:-1 ,SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+ #EXTINF:-1 ,90S KID
+https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.m3u8
+
+
+ #EXTINF:-1 ,Activa TV
+https://cloudvideo.servers10.com:8081/8126/index.m3u8
+
 #EXTINF:-1 ,Chicos
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
