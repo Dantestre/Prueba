@@ -9,11 +9,8 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
  #EXTINF:-1 ,90S KID
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.m3u8
 
- #EXTINF:-1 ,Milenio
- https://www.youtube.com/watch?v=XviFlYhCPMU
- 
- #EXTINF:-1 ,Solar Televisión
-https://tna5.bozztv.com/televisionsolar/index.m3u8
+#EXTINF:-1 ,MIlenio
+https://youtu.be/XviFlYhCPMU
  
  #EXTINF:-1 ,Nuestra TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
