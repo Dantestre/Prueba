@@ -11,7 +11,9 @@ https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.
 
  #EXTINF:-1 ,Milenio
  https://www.youtube.com/watch?v=XviFlYhCPMU
-
+ 
+ #EXTINF:-1 ,Nuestra TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
 
  #EXTINF:-1 ,Activa TV
 https://cloudvideo.servers10.com:8081/8126/index.m3u8
@@ -22,8 +24,11 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 ,EnerGeek
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
 
-#EXTINF:-1 ,Locomotion TV
-http://51.222.85.85:81/hls/loco/index.m3u8
+miami tv
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+
+miami internacional
+http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/playlist.m3u8
 
 #EXTINF:-1 ,OLD
 http://177.53.152.186:8000/play/a00g/index.m3u8
