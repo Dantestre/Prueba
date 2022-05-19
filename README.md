@@ -1,16 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 ,Anime Zone
-http://azxtv.com/hls/stream.m3u8
+http://azxtv.com/088eef3a-bc32-4ce2-92c0-1279038f5725
 
 #EXTINF:-1 ,SOMOS DEL ESTE TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
  #EXTINF:-1 ,90S KID
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.m3u8
-
-#EXTINF:-1 ,MIlenio
-https://youtu.be/XviFlYhCPMU
  
  #EXTINF:-1 ,Nuestra TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
@@ -24,10 +21,10 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 ,EnerGeek
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
 
-miami tv
+#EXTINF:-1 ,miami tv
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 
-miami internacional
+#EXTINF:-1 ,miami internacional
 http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/playlist.m3u8
 
 #EXTINF:-1 ,OLD
