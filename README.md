@@ -9,6 +9,9 @@ https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 ,Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
+#EXTINF:-1 ,Antares
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
 #EXTINF:-1 ,microvision
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 
@@ -29,6 +32,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395
 
 #EXTINF:-1 ,azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1 ,LatinoKids
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+
+#EXTINF:-1 ,CNC Digital
+https://cloudvideo.servers10.com:8081/8150/index.m3u8
 
 #EXTINF:-1 ,a+
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
@@ -63,11 +72,18 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 ,Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 ,Miami TV internacional
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 ,RadioInka
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
 #EXTINF:-1 ,ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 ,Nativa TV
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+#EXTINF:-1 ,Catacaos
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+
 
 
 
