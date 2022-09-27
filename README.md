@@ -3,6 +3,9 @@
 #EXTINF:-1 ,oRBIT
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w388706928.m3u8
 
+#EXTINF:-1 ,TecSatel Cine TV
+https://servilive.com:3176/live/cineclublive.m3u8
+
 #EXTINF:-1 ,Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
@@ -63,7 +66,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playli
 #EXTINF:-1 ,Miami TV internacional
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 
-
+#EXTINF:-1 ,ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 
 
 
