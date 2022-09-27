@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 ,Anime Zone
-http://azxtv.com/088eef3a-bc32-4ce2-92c0-1279038f5725
 
 #EXTINF:-1 ,SOMOS DEL ESTE TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
@@ -18,14 +16,14 @@ https://cloudvideo.servers10.com:8081/8126/index.m3u8
 #EXTINF:-1 ,Chicos
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 ,EnerGeek
-https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+#EXTINF:-1 ,Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 ,miami tv
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 
 #EXTINF:-1 ,miami internacional
-http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/playlist.m3u8
+https://miamitvhd.com/?channel=
 
 #EXTINF:-1 ,OLD
 http://177.53.152.186:8000/play/a00g/index.m3u8
