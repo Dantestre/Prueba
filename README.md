@@ -69,6 +69,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
 #EXTINF:-1 ,Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:-1 ,Onda Digital 
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+
 #EXTINF:-1 ,Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
