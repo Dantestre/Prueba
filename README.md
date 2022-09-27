@@ -129,5 +129,5 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 ,Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-Turistik TV
+#EXTINF:-1 ,Turistik TV
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
