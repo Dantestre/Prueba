@@ -12,14 +12,11 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 ,Antares
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
-#EXTINF:-1 ,microvision
-http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+
 
 #EXTINF:-1 ,Canal Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
-#EXTINF:-1 ,sim
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
 #EXTINF:-1 ,wow
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
@@ -33,8 +30,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395
 #EXTINF:-1 ,azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 ,LatinoKids
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+
 
 #EXTINF:-1 ,CNC Digital
 https://cloudvideo.servers10.com:8081/8150/index.m3u8
@@ -51,8 +47,6 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 ,SOMOS DEL ESTE TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
- #EXTINF:-1 ,90S KID
-https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.m3u8
  
  #EXTINF:-1 ,Nuestra TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
@@ -63,8 +57,8 @@ https://cloudvideo.servers10.com:8081/8126/index.m3u8
 #EXTINF:-1 ,Chicos
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 ,plus
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
+
+
 
 #EXTINF:-1 ,Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
