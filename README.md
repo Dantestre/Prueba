@@ -3,11 +3,26 @@
 #EXTINF:-1 ,oRBIT
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w388706928.m3u8
 
+#EXTINF:-1 ,Toonizaki
+https://acl-server.linky.com.co/hls/toonizaki.m3u8
+
+#EXTINF:-1 ,Maxima TV
+https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
+
+#EXTINF:-1 ,Latinokids2
+http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 ,chiquitines
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
+
+#EXTINF:-1 ,Paka Paka
+http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
 #EXTINF:-1 ,TecSatel Cine TV
 https://servilive.com:3176/live/cineclublive.m3u8
 
 #EXTINF:-1 ,Cartoon Network Latino
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
 #EXTINF:-1 ,Antares
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
