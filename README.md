@@ -3,30 +3,29 @@
 #EXTINF:-1 ,oRBIT
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w388706928.m3u8
 
+#EXTINF:-1 ,TV Retro Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
 #EXTINF:-1 ,Toonizaki
 https://acl-server.linky.com.co/hls/toonizaki.m3u8
 
 #EXTINF:-1 ,Maxima TV
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 
-#EXTINF:-1 ,Latinokids2
-http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Latino
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
-#EXTINF:-1 ,chiquitines
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
+#EXTINF:-1 ,Varied
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 ,Paka Paka
-http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-
-#EXTINF:-1 ,TecSatel Cine TV
-https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1 ,Aniplus Asia
+http://210.210.155.35/dr9445/h/h02/02.m3u8
 
 #EXTINF:-1 ,Cartoon Network Latino
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
 #EXTINF:-1 ,Antares
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-
 
 
 #EXTINF:-1 ,Canal Visión Dorada
@@ -62,18 +61,20 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 ,SOMOS DEL ESTE TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
- 
- #EXTINF:-1 ,Nuestra TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
-
- #EXTINF:-1 ,Activa TV
-https://cloudvideo.servers10.com:8081/8126/index.m3u8
-
 #EXTINF:-1 ,Chicos
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
+#EXTINF:-1 ,Latinokids2
+http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 ,chiquitines
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 
+#EXTINF:-1 ,Paka Paka
+http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+#EXTINF:-1 ,TV Retro Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 ,Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -87,8 +88,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playli
 #EXTINF:-1 ,RadioInka
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
-#EXTINF:-1 ,ATV
-https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 ,Santa Fe Canal
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
 
 #EXTINF:-1 ,Nativa TV
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
