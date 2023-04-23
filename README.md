@@ -1,7 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 ,oRBIT
+#EXTINF:-1 ,azteca 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1 ,ORBIT
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w388706928.m3u8
+
+#EXTINF:-1 ,multivision
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 ,SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+#EXTINF:-1 ,Antares
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+
+#EXTINF:-1 ,Canal Visión Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+
+#EXTINF:-1 ,wow
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 ,Santa Fe Canal
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+#EXTINF:-1 ,Nativa TV
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+#EXTINF:-1 ,Tigueritos TV
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
 #EXTINF:-1 ,TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
@@ -18,31 +47,18 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 ,Varied
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 ,Aniplus Asia
-http://210.210.155.35/dr9445/h/h02/02.m3u8
+
 
 #EXTINF:-1 ,Cartoon Network Latino
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
-#EXTINF:-1 ,Antares
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
-
-#EXTINF:-1 ,Canal Visión Dorada
-https://movil.ejeserver.com/live/visiondorada.m3u8
-
-
-#EXTINF:-1 ,wow
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 ,comedi central
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 ,series nick
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 ,azteca 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 
 
@@ -55,11 +71,7 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 #EXTINF:-1 ,azteca uno
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 
-#EXTINF:-1 ,multivision
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1 ,SOMOS DEL ESTE TV
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
 #EXTINF:-1 ,Chicos
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
@@ -88,12 +100,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playli
 #EXTINF:-1 ,RadioInka
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
-#EXTINF:-1 ,Santa Fe Canal
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
-#EXTINF:-1 ,Nativa TV
-https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+
 
 #EXTINF:-1 ,Catacaos
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
